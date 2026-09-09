@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 // ✅ URL ABSOLUTA - Cambia solo si tu dominio es diferente
-const SITE_URL = "https://www.app-descargar-ahora.online/";
+const SITE_URL = "https://www.descargar-ahora.site/";
 // ✅ VERSIÓN DE LA IMAGEN - Cambia este número para forzar actualización
 const IMAGE_VERSION = "v3";
 
